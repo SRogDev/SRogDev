@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Roger</h1>
-
-<p align="center">
-  <img src="profile-photo.jpg" alt="Roger Oria" width="200" />
-</p>
 <h3 align="center" style="color:#FF6600;">Product Builder</h3>
 <h4 align="center">AI Engineer / ML enthusiast</h4>
 
