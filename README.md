@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roger</h1>
-<h3 align="center" style="color:#FF6600;">AI Founder · AI Engineer & ML Engineer</h3>
+<h3 align="center" style="color:#FF6600;">Product Builder</h3>
+<h4 align="center">AI Engineer / ML enthusiast</h4>
 
 <p align="center">
-  On a mission to become the <b>#1 in AI</b> — learning by shipping.<br/>
-  ~30 AI builds a year, owning the stack from the model up to the product.
+  Aspiring <b>Tech Founder</b> — on a mission to become the <b>#1 in AI</b>, learning by shipping.<br/>
+  I build AI products end to end: idea → model → product → production.<br/>
+  🌐 <a href="https://roger-developer.vercel.app">Personal Web</a> — portfolio &amp; CV
 </p>
 
 <p align="center">
@@ -14,12 +16,12 @@
 
 ### 🚀 About Me
 
-- 🧠 **AI Founder** building **Polygrow** — the AI-native business OS for solopreneurs
+- 🧠 **Product Builder** building **Polygrow** — the AI-native business OS for solopreneurs
 - 🤖 **AI engineering:** production agent systems with **LangGraph** (multi-agent, tools, evals), RAG pipelines, Vercel AI SDK
-- 🧪 **ML engineering:** **PyTorch** training — LoRA/QLoRA fine-tuning, RL (PPO/MAPPO, self-play), contrastive learning
+- 🧪 **ML engineering:** **PyTorch** training — LoRA/QLoRA fine-tuning with **Unsloth**, RL (PPO/MAPPO, self-play), contrastive learning
 - 🌱 Currently going deep on **RL foundations → agent post-training** (RLHF, DPO, RLVR)
-- 👯 Looking to collaborate on **AI products & startups**
-- 💬 Ask me about **LangGraph, PyTorch, RL, Next.js, FastAPI**
+- 👯 Looking to collaborate on **AI products & startups** — and open to **AI Engineer** roles
+- 💬 Ask me about **LangGraph, PyTorch, RL, Rust, Unsloth, Next.js, FastAPI**
 - 📫 Reach me: **rogeroriaglez@gmail.com**
 - ⚡ Fun fact: **I think I'm the Cuban John Wick dev**
 
@@ -137,7 +139,16 @@
 
 **DeepBooks** — immersive reading: real books, AI-generated *momentos*, ambient experiences.
 
-📌 More in the pinned repos below — the lab ships ~30 builds a year.
+📌 More in the pinned repos below. I build in public — if a repo helps you, a star helps it reach more builders.
+
+---
+
+### 🧭 Engineering Interests
+
+- Developer / Entrepreneur AI Tools
+- Platform Development
+- Development of interactive experiences with AI
+- HealthTech
 
 ---
 
@@ -162,4 +173,6 @@
   <a href="https://instagram.com/rogeroriag" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
   </a>
+  &nbsp;
+  <a href="https://roger-developer.vercel.app" target="_blank">🌐 Personal Web</a>
 </p>
