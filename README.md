@@ -18,7 +18,7 @@
 
 - 🧠 **Product Builder** building **Polygrow** — the AI-native business OS for solopreneurs
 - 🤖 **AI engineering:** production agent systems with **LangGraph** (multi-agent, tools, evals), RAG pipelines, Vercel AI SDK
-- 🧪 **ML engineering:** **PyTorch** training — LoRA/QLoRA fine-tuning with **Unsloth**, RL (PPO/MAPPO, self-play), contrastive learning
+- 🧪 **ML engineering:** **PyTorch** training — LoRA/QLoRA fine-tuning with **Unsloth**, RL (PPO/MAPPO, self-play)
 - 🌱 Currently going deep on **RL foundations → agent post-training** (RLHF, DPO, RLVR)
 - 👯 Looking to collaborate on **AI products & startups** — and open to **AI Engineer** roles
 - 💬 Ask me about **LangGraph, PyTorch, RL, Rust, Unsloth, Next.js, FastAPI**
